@@ -1,3 +1,26 @@
+v4.2.0
+- Many localization fixes
+v4.1.0
+- Option to disable cursor
+- Fixes to cursor shape handling
+- Fix for devices with cutouts
+- Fix for back button right click
+- Fix for pointer bad pointer location when pointer shape changes
+v4.0.9
+- Japanese, Korean, Traditional Chinese, and Simplified Chinese localizations
+v4.0.8
+- Security updates
+v4.0.7
+- 64-bit support
+- Bugfixes
+v4.0.6
+- Bugfix for TLS_FALLBACK_SCSV issue with TLSv1.3+ for VeNCrypt
+- Bugfix to sshlib for sha2-256 and sha2-512 keys
+- Support for shorthand VNC port notation for ports lower than 5920
+v4.0.5
+- Logcat copy from previous runs as well
+v4.0.4
+- Fix for scrolling in Single Handed mode
 v4.0.3
 - Updated sshlib
 v4.0.2
